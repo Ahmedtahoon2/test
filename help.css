@@ -1,0 +1,23 @@
+body{ 
+    background-color: rgb(255, 255, 255 / 50%); 
+}
+body p .google , .facebook{
+    color: whitesmoke;
+    padding: 5px 10px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px; 
+}
+body p .google{
+    background-color: rgb(255, 0, 0);
+    margin: 3px 50%;
+}
+
+body p .facebook{
+    background-color: blue;
+    margin: 3px 49.5%;
+}
+p{
+    font-size: 20px;   
+}
